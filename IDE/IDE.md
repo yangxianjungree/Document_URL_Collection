@@ -1,5 +1,6 @@
 # Document or URL for IDE
 
-## Activation key
+[toc]
 
-[click me](https://shimo.im/docs/XvW3WpHgHdRHVXgV/read)
+## Activation key
+Intellij IDEA 支持jetbrins全家桶15款工具 [click me](https://shimo.im/docs/XvW3WpHgHdRHVXgV/read)
