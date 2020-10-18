@@ -1,1 +1,0 @@
-# Document or URL for Go
